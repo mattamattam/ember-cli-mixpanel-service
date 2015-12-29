@@ -1,6 +1,6 @@
 {
-  "name": "ember-cli-mixpanel-service",
-  "version": "0.0.11",
+  "name": "ember-cli-mixpanel-service-mattamattam-fork",
+  "version": "0.0.12",
   "description": "Adds mixpanel as a service injected onto routes and controllers",
   "directories": {
     "doc": "doc",
@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sportly/ember-cli-mixpanel-service.git"
+    "url": "git@github.com:mattamattam/ember-cli-mixpanel-service.git"
   },
-  "bugs": "https://github.com/sportly/ember-cli-mixpanel-service/issues",
+  "bugs": "https://github.com/mattamattam/ember-cli-mixpanel-service/issues",
   "engines": {
     "node": ">= 0.10.0"
   },
